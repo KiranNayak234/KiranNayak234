@@ -1,12 +1,12 @@
 ![image](https://github.com/KiranNayak234/KiranNayak234/assets/135014674/dedf3472-a280-4724-b5b4-45cfd93e4bc8)
 
 
-### Hi there 👋 I'm Kiran Nayak
+                                            # Hi there 👋 I'm Kiran Nayak
 
-A Full Stack Developer From India
+                                           A Passionate Full Stack Developer From India
 
 - 🌱 I’m currently learning Full Stack Development
-- 💬 Ask me about Html, Css, JavaScript, Java, Advance Java, Oracle Sql                           ![image](https://github.com/KiranNayak234/KiranNayak234/assets/135014674/8648058e-81f1-4edf-b15a-9c6388f108c5)
+- 💬 Ask me about Html, Css, JavaScript, Java, Advance Java, Oracle Sql                           
 - 📫 How to reach me: kirannayak%23@gmail.com
 -->
 Connect with me:
