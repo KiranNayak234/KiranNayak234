@@ -37,7 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KiranNayak234&show_icons=true&locale=en" alt="KiranNayak234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranNayak234&" alt="KiranNayak234" /></p>
-https://git-scm.com
-https://firebase.google.com
+
 
 
