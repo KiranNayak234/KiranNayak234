@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Bootstrap, java**
+- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Bootstrap, Java**
 
 - 📫 Reach me at **kirannayak523@gmail.com**
 
